@@ -1,0 +1,25 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Finlandica+Headline:ital,wght@0,100..900;1,100..900&family=M+PLUS+U:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  font-family: "Finlandica Headline", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+#container{
+
+
+   margin: 10px;
+   width: 960px;
+}
+
+.color-green{
+  color: #00ff00;
+}
+*{
+    background-image: url("https://imgs.search.brave.com/eoSnJZ-hj_tluEmPpeWiNMEDD2LvIuPrh6UhTCDpZvo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vNVJyMTQ0/dks5UGdXdzRlQ3VX/VkNnbHhIeHFHcnFi/M3MwX1BFeTNlVHhf/WS9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTkz/ZDNjdS9abkpsWldO/dlpHVmpZVzF3L0xt/OXlaeTl1Wlhkekwy/TnYvYm5SbGJuUXZh/VzFoWjJWei9MM05w/ZW1VdmR6SXdNREF2/L01qQXlNUzh3Tnk5/cmIySjEvTFdGblpX/NWplUzFwY0VGUy9T/R0Y0UlZSU2F5MTFi/bk53L2JHRnphQzVx/Y0dj");
+background-size: cover;
+}
